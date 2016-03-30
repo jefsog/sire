@@ -1,0 +1,5 @@
+Adams	77
+Read	99
+Franklin	33
+Livingston	108
+Washington	194
